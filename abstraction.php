@@ -2,7 +2,7 @@
 //data abstraction is used to make compulsary function
 abstract class Orders
 {
-    //abstract class must have a abstract class which is only declared and is further defined by child class
+    //abstract class must have a abstract function which is only declared and is further defined by child class
     abstract function setOrderId();
 }
 
