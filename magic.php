@@ -1,6 +1,6 @@
 <?php
 //special methods which override PHP's default's action when certain actions are performed on an object
-//repesented by __ before the function e.g/ ___construct
+//repesented by __ before the function e.g. ___construct
 
 class Magic
 {
