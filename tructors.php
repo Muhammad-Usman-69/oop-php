@@ -1,6 +1,6 @@
 <?php
 //constructors and destructors
-//functions which are executed when object is initialized are called magic methods
+//special methods which override PHP's default's action when certain actions are performed on an object
 class Laptop
 {
     // __construct is the first pre-defined function which is executed when object is initialized
